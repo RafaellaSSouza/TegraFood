@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ProdutosAdmin/pizzas", {data:[{}],fetch:{},mutations:void 0});

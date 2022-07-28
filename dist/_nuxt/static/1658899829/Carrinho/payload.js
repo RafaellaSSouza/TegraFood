@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/carrinho", {data:[{}],fetch:{},mutations:void 0});
